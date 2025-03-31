@@ -23,15 +23,17 @@ keywords:
   <meta charSet="utf-8" />
 </head>
 
-Keploy UTG can be used in two ways: 
+Keploy UTG can be used in two ways:
+
 1. Via [VS Code Extension](#-using-utg-with-the-vs-code-extension)
 2. Via GitHub App.
 
-
 ## 🚀 Using UTG with the VS Code Extension
+
 The [Keploy VS Code extension](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio) is the easiest way to get started with Keploy. It provides a simple interface for generating unit tests and running them against your code.
 
 ### 📌 Steps to Install
+
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 3. Search for "Keploy" in the Extensions Marketplace.
@@ -41,8 +43,8 @@ The [Keploy VS Code extension](https://marketplace.visualstudio.com/items?itemNa
 7. Follow the instructions in the extension to generate unit tests for your code.
 8. You can also use the extension to run the generated tests and view the results.
 
-
 ## 🔗 Using UTG with the GitHub App
+
 The Keploy GitHub App is a powerful tool that allows you to generate unit tests for your code directly from your GitHub repository. It automatically check for unit tests coverage for your codebase when installed in your repository.
 
 ### 📌 Steps to Install
